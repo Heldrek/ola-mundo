@@ -28,3 +28,17 @@ Tabela:
 Nome|Cargo|Formação
 ---|---|---
  Helder | Desenvolvedor | Danki Code
+Fim da tabela!
+
+```
+var el = $('nav.menu ul');
+if(el.is(:visible) == false){
+el.fadeIn();
+}else{
+el.fadeOut();
+}
+```
+My code is an 🍎
+
+
+ 
